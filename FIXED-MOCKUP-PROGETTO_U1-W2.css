@@ -1,0 +1,157 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+main,
+footer {
+  color: #eaeaec;
+  text-align: center;
+}
+#LOGO {
+  height: 200px;
+  padding-top: 15px;
+  padding-left: 120px;
+}
+header {
+  padding-bottom: 50px;
+  background-color: #222f3f;
+}
+#MENU {
+  font-size: 80px;
+  float: left;
+  padding-top: 40px;
+  padding-left: 120px;
+  margin: 0px;
+  padding-bottom: 40px;
+  background-color: #374858;
+  width: 98.4%;
+}
+#MENU a {
+  color: #eaeaec;
+  text-decoration: none;
+  margin-right: 80px;
+  font-size: 90px;
+}
+#ORANGE {
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-top: 300px;
+  padding-bottom: 1.5px;
+  background-color: #f56600;
+  font-size: 60px;
+}
+#ORANGE p {
+  font-size: 80px;
+  padding-bottom: 25px;
+  padding-top: 50px;
+  align-items: center;
+  text-align: center;
+  height: 1vh;
+  color: #eaeaec;
+}
+#GREENBANNER div span h1 {
+  height: 150px;
+  font-size: 200px;
+  padding-top: 300px;
+  margin-top: 150px;
+}
+#GREENBANNER span p {
+  font-size: 100px;
+}
+
+#GREENBANNER {
+  font-size: 80px;
+  background-size: contain;
+  height: 1120px;
+  background-image: url(./assets/images/bg-image.png);
+  margin-left: 100px;
+  margin-top: 100px;
+  width: 96%;
+}
+#FIND {
+  font-size: 150px;
+  color: #252726;
+  margin-left: 425px;
+  margin-top: 200px;
+  display: flex;
+}
+#FIND span p a {
+  margin-left: 150px;
+  color: #29747a;
+  text-decoration: none;
+  font-size: 100px;
+}
+section #FOTOS {
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+  margin-left: 200px;
+  height: 1300px;
+}
+.FOTO1 {
+  margin-top: -100px;
+  border-radius: 10%;
+  margin-right: 80px;
+}
+section #TECH img {
+  margin-left: 200px;
+  margin-top: 250px;
+  height: 2000px;
+  width: 7000px;
+}
+#PLAY {
+  margin-bottom: -150px;
+  margin-top: -90px;
+  font-size: 120px;
+  color: #252726;
+  margin-left: 200px;
+  display: flex;
+  justify-content: center;
+}
+#PLAY span p a {
+  margin-left: 150px;
+  color: #29747a;
+  text-decoration: none;
+  font-size: 100px;
+}
+#UP {
+  padding: 70px;
+  width: 98.2%;
+  background-color: #374858;
+  color: #29747a;
+}
+#UP p a {
+  margin-left: 3500px;
+  text-decoration: none;
+  background-color: #374858;
+  cursor: pointer;
+  color: #eaeaec;
+  font-size: 90px;
+}
+#SOUND {
+  margin-bottom: 50px;
+  margin-top: -90px;
+  font-size: 120px;
+  color: #252726;
+
+  display: flex;
+  justify-content: center;
+}
+#SOUND span p a {
+  color: #29747a;
+  text-decoration: none;
+  font-size: 100px;
+  margin-left: 150px;
+}
+footer {
+  width: 100%;
+}
+footer div {
+  height: 750px;
+  background-color: #222f3f;
+}
+footer div img {
+  width: 800px;
+  margin-top: 250px;
+}

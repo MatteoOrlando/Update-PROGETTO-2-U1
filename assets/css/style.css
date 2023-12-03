@@ -1,0 +1,51 @@
+header {
+  background-color: #222f3f;
+}
+header img {
+  height: 40px;
+}
+
+.HeadNav {
+  background-color: #364759;
+  text-align: left;
+
+  justify-content: space-around;
+}
+nav span {
+  color: white;
+  margin: 3px;
+}
+
+.ORANGEBAR {
+  background-color: #f56600;
+  margin-top: 20px;
+  padding: 5px;
+  margin-left: 15px;
+  color: white;
+  text-align: center;
+}
+
+.HOLIDAY {
+}
+h1 {
+  text-align: center;
+  font-size: 28px;
+}
+h4 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.TECH {
+}
+
+.UNDER3D {
+}
+.STEREO {
+}
+
+.UNDERSTEREO {
+}
+.ToTop {
+}
+.UNDERLOGO {
+}
